@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PropsFields xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <XMLFileName>C:\Users\user\Desktop\getHardwareInformation\getHardwareInformation\bin\Debug\settings.xml</XMLFileName>
+  <IPaddress>127.0.0.1</IPaddress>
+  <LastStart>2018-01-09T00:00:00</LastStart>
+  <Surname>Порошенко</Surname>
+  <Cab>87</Cab>
+  <server>sozserver</server>
+  <login>ghiadmin</login>
+  <pass>753951</pass>
+  <dbName>infhard</dbName>
+  <tableName>info</tableName>
+  <port>3306</port>
+</PropsFields>

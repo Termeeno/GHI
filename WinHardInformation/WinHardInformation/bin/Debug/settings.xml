@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PropsFields xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <XMLFileName>C:\Users\Admin\Desktop\WinHardInformation\WinHardInformation\bin\Debug\settings.xml</XMLFileName>
+  <IPaddress>127.0.0.1</IPaddress>
+  <LastStart>2018-01-09T00:00:00</LastStart>
+  <Surname>Тестовый</Surname>
+  <Cab>testcab</Cab>
+  <server>sozserver</server>
+  <login>ghiadmin</login>
+  <pass>753951</pass>
+  <dbName>infhard</dbName>
+  <tableName>info</tableName>
+  <port>3306</port>
+  <srv1c>192.168.55.36</srv1c>
+  <proxySrv>192.168.55.64</proxySrv>
+  <stend>192.168.55.27</stend>
+  <pdc>192.168.55.253</pdc>
+  <sozServer>192.168.55.26</sozServer>
+  <oki2>192.168.55.254</oki2>
+  <oki4>192.168.55.249</oki4>
+  <task181>192.168.55.252</task181>
+  <plotter>192.168.55.250</plotter>
+</PropsFields>

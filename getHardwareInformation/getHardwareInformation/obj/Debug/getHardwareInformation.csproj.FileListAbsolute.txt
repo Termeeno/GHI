@@ -1,0 +1,29 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\vscode\getHardwareInformation\getHardwareInformation\bin\Debug\getHardwareInformation.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\vscode\getHardwareInformation\getHardwareInformation\bin\Debug\getHardwareInformation.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\vscode\getHardwareInformation\getHardwareInformation\bin\Debug\getHardwareInformation.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\vscode\getHardwareInformation\getHardwareInformation\obj\Debug\getHardwareInformation.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\vscode\getHardwareInformation\getHardwareInformation\obj\Debug\getHardwareInformation.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\vscode\getHardwareInformation\getHardwareInformation\obj\Debug\getHardwareInformation.pdb
+C:\Users\Игорь\Desktop\getHardwareInformation\getHardwareInformation\bin\Debug\getHardwareInformation.exe.config
+C:\Users\Игорь\Desktop\getHardwareInformation\getHardwareInformation\obj\Debug\getHardwareInformation.exe
+C:\Users\Игорь\Desktop\getHardwareInformation\getHardwareInformation\obj\Debug\getHardwareInformation.pdb
+C:\Users\Игорь\Desktop\getHardwareInformation\getHardwareInformation\bin\Debug\getHardwareInformation.exe
+C:\Users\Игорь\Desktop\getHardwareInformation\getHardwareInformation\bin\Debug\getHardwareInformation.pdb
+C:\Users\Игорь\Desktop\getHardwareInformation\getHardwareInformation\obj\Debug\getHardwareInformation.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\getHardwareInformation\getHardwareInformation\bin\Debug\getHardwareInformation.exe.config
+C:\Users\Admin\Desktop\getHardwareInformation\getHardwareInformation\bin\Debug\getHardwareInformation.exe
+C:\Users\Admin\Desktop\getHardwareInformation\getHardwareInformation\bin\Debug\getHardwareInformation.pdb
+C:\Users\Admin\Desktop\getHardwareInformation\getHardwareInformation\obj\Debug\getHardwareInformation.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\getHardwareInformation\getHardwareInformation\obj\Debug\getHardwareInformation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\getHardwareInformation\getHardwareInformation\obj\Debug\getHardwareInformation.exe
+C:\Users\Admin\Desktop\getHardwareInformation\getHardwareInformation\obj\Debug\getHardwareInformation.pdb
+C:\Users\user\Desktop\getHardwareInformation\getHardwareInformation\bin\Debug\getHardwareInformation.exe.config
+C:\Users\user\Desktop\getHardwareInformation\getHardwareInformation\bin\Debug\getHardwareInformation.exe
+C:\Users\user\Desktop\getHardwareInformation\getHardwareInformation\bin\Debug\getHardwareInformation.pdb
+C:\Users\user\Desktop\getHardwareInformation\getHardwareInformation\obj\Debug\getHardwareInformation.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\getHardwareInformation\getHardwareInformation\obj\Debug\getHardwareInformation.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\getHardwareInformation\getHardwareInformation\obj\Debug\getHardwareInformation.exe
+C:\Users\user\Desktop\getHardwareInformation\getHardwareInformation\obj\Debug\getHardwareInformation.pdb
+C:\Users\user\Desktop\getHardwareInformation\getHardwareInformation\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\getHardwareInformation\getHardwareInformation\bin\Debug\MySql.Data.xml
+C:\Users\Admin\Desktop\getHardwareInformation\getHardwareInformation\bin\Debug\MySql.Data.xml
